@@ -4,7 +4,8 @@ h1{
 }
 body{
     background-color:rgb(164, 197, 247);
-    margin: 0% 10% 0%;
+    margin: 0% 5% 0%;
+    border: 4mm ridge rgb(108, 144, 221);
     /* margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 5%; */
