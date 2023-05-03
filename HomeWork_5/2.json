@@ -1,0 +1,20 @@
+{
+    "notebook":[
+        {
+            "name": "Иван",
+            "surname": "Иванов",
+            "patronymic": "Иванович",
+            "age": 30,
+            "birthplace": "Москва",
+            "phone": "+7 926 766 48 48"
+        },
+        {
+            "name": "Петров",
+            "surname": "Петор",
+            "patronymic": "Петрович",
+            "age": 32,
+            "birthplace": "Санкт-Петербург",
+            "phone": "+7 937 877 59 59"
+        }
+    ]   
+}
